@@ -1,0 +1,10 @@
+ADMIN
+	username: admin
+	password: 1234
+
+STUDENT
+	username: user
+	password: user
+
+	username: nel
+	password: nel26
